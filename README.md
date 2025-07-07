@@ -7,3 +7,6 @@ ML Specialization Course - Coursera
 ## 2. Classification
 
 # 2. Unsupervised Learning
+## 1. Clustering
+## 2. Anomaly Detection
+## 3. Dimensionality Reduction
